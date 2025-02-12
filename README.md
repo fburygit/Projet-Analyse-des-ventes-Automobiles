@@ -61,6 +61,19 @@ Voici quelques **enseignements clés** tirés de l’analyse des ventes automobi
    - Certains constructeurs dominent le marché en termes de chiffre d'affaires.  
    - Le Top 3 des marques sont **Ford, Chevrolet et Nissan**.
 
+## 🎯 Axes d'amélioration
+Ce projet est une **première exploration** du dataset, mais plusieurs pistes d'améliorations sont possibles : 
+✅ **Prédiction des prix** : Utilisation d’un modèle de machine learning pour prédire le prix optimal d’un véhicule.
+✅ **Analyse des marques les plus rentables** : Étudier les différences de pricing entre constructeurs.
+✅ **Détection d’anomalies** : Identifier les ventes dont le prix est anormalement bas ou élevé.
+
+## 📌 Auteur
+👤 **Florian Bury**  
+📍 Étudiant en **Marketing Digital & Data**  
+📧 Contact : [LinkedIn](https://www.linkedin.com/in/florianbury))  
+
+💡 N’hésitez pas à me **contacter** pour toute question ou collaboration ! 😊  
+
 
 ## 🚀 Installation et Exécution
 Si vous souhaitez **tester ce projet** et **exécuter l'analyse**, voici les étapes à suivre :
