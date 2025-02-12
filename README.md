@@ -26,7 +26,13 @@ Voici les fichiers principaux de ce projet :
 
 📖 **Documentation** :
 - **`README.md`** → Ce fichier qui explique le projet.
-
+  
+📉​ **Visualisations**
+- **`Répartition_des_ventes _par_type_de_carroserie.png`** → Graphique circulaire pour identifier le constructeur qui a le plus de poids dans les ventes
+- **`Top_10_des_constructeurs_par_CA.png`** → Bar Chart qui détermine quel constructeur génère le plus de CA.
+- **`Distribution_des_ecarts_de_prix.png`** → Ce graphique permet d'identifier à quelle fréquence un certain écart de prix se produit entre le prix de vente estimé et réel.
+- **`Correlation_entre_km_&_prix.png`** → Ce nuage de point envidage une corrélation entre le kilométrage et le prix
+- **`Modèles_plus_de_CA.png`** → Ce second Bar Char met en avant les modèles qui ont généré le plus de CA.
 ---
 
 ## 🛠 Technologies et Outils utilisés
