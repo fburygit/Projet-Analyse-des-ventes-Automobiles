@@ -36,7 +36,7 @@ Voici les fichiers principaux de ce projet :
 ---
 
 ## 🛠 Technologies et Outils utilisés
-Ce projet repose sur un stack technologique orienté **data science** :
+Ce projet repose sur un stack technologique orienté **data analyse** :
 
 - **Python** 🐍 comme langage principal.
 - **Pandas** pour le nettoyage et la manipulation des données.
@@ -51,14 +51,14 @@ Voici quelques **enseignements clés** tirés de l’analyse des ventes automobi
 
 1️⃣ **Les prix réels sont souvent inférieurs aux estimations**  
    - En moyenne, les voitures se vendent **158€ de moins** que leur prix estimé.  
-   - Cette différence peut être due à des négociations ou à une **sur-estimation** du marché.  
+   - Cette différence peut être due à des négociations ou à une **sur-estimation** du marché ou à des négociations lors de la vente.  
 
 2️⃣ **L’impact du kilométrage sur le prix de vente**  
-   - Plus un véhicule a de kilomètres, plus son prix de revente baisse. 📉  
+   - Plus un véhicule a de kilomètres, plus son prix de revente baisse. 
    - Cependant, certaines marques conservent mieux leur valeur.  
 
 3️⃣ **Les constructeurs les plus rentables**  
-   - Certains constructeurs dominent le marché en termes de chiffre d'affaires.  
+   - Certains constructeurs dominent le marché en termes de Chiffre d'Affaires.  
    - Le Top 3 des marques sont **Ford, Chevrolet et Nissan**.
 
 ## 🎯 Axes d'amélioration
@@ -72,14 +72,4 @@ Ce projet est une **première exploration** du dataset, mais plusieurs pistes d'
 📍 Étudiant en **Marketing Digital & Data**  
 📧 Contact : [LinkedIn](https://www.linkedin.com/in/florianbury)  
 
-💡 N’hésitez pas à me **contacter** pour toute question ou collaboration ! 😊  
-
-
-## 🚀 Installation et Exécution
-Si vous souhaitez **tester ce projet** et **exécuter l'analyse**, voici les étapes à suivre :
-
-### Cloner le repository
-Téléchargez le projet en exécutant la commande suivante :
-```bash
-git clone https://github.com/ton-github/nom-du-repo.git
-cd nom-du-repo
+💡 N’hésitez pas à me **contacter** pour toute question, suggestion ou collaboration ! 😊  
