@@ -70,7 +70,7 @@ Ce projet est une **première exploration** du dataset, mais plusieurs pistes d'
 ## 📌 Auteur
 👤 **Florian Bury**  
 📍 Étudiant en **Marketing Digital & Data**  
-📧 Contact : [LinkedIn](https://www.linkedin.com/in/florianbury))  
+📧 Contact : [LinkedIn](https://www.linkedin.com/in/florianbury)  
 
 💡 N’hésitez pas à me **contacter** pour toute question ou collaboration ! 😊  
 
