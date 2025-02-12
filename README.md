@@ -64,7 +64,9 @@ Voici quelques **enseignements clés** tirés de l’analyse des ventes automobi
 ## 🎯 Axes d'amélioration
 Ce projet est une **première exploration** du dataset, mais plusieurs pistes d'améliorations sont possibles : 
 ✅ **Prédiction des prix** : Utilisation d’un modèle de machine learning pour prédire le prix optimal d’un véhicule.
+
 ✅ **Analyse des marques les plus rentables** : Étudier les différences de pricing entre constructeurs.
+
 ✅ **Détection d’anomalies** : Identifier les ventes dont le prix est anormalement bas ou élevé.
 
 ## 📌 Auteur
